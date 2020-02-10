@@ -9,8 +9,8 @@ Support type:
 - Prefab
 
 Step:
-At Menu bar, Select OriTool/Open GuidReplacementWindow
-Select type of file that want to change guid
-Drag folder and search file(s) in folder
-Select file that want to replace -> replace GUID of new file for all references
+- At Menu bar, Select OriTool/Open GuidReplacementWindow
+- Select type of file that want to change guid
+- Drag folder and search file(s) in folder
+- Select file that want to replace -> replace GUID of new file for all references
 
